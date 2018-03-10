@@ -16,6 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    
+    //dfgdfsgsdf
+    NSLog(@"1234567789");
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
